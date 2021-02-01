@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/TaskManager/Task.cpp
+Task.h
+/home/ray/Documents/DTTAH/windows/CLion/TaskManager/Task.h
+
+/home/ray/Documents/DTTAH/windows/CLion/TaskManager/Task.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+chrono
+-
+
+/home/ray/Documents/DTTAH/windows/CLion/TaskManager/main.cpp
+Task.h
+/home/ray/Documents/DTTAH/windows/CLion/TaskManager/Task.h
+

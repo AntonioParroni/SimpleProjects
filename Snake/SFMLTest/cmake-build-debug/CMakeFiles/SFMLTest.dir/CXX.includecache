@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Documents/DTTAH/windows/CLion/SFMLTest/main.cpp
+SFML/Graphics.hpp
+-
+ctime
+-
+

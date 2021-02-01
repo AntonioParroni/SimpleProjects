@@ -1,0 +1,4 @@
+/userspace/apps/CLion/ch-0/203.3645.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ray/Documents/DTTAH/windows/CLion/TaskManager
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ray/Documents/DTTAH/windows/CLion/TaskManager/cmake-build-debug
